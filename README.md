@@ -1,7 +1,4 @@
 # jsgestalt.github.io
 ## Portfolio Projects Folder
-### Adding words
-### Adding more words
-Words
-
+[Activity 9.1 & 9.2](https://jsgestalt1.github.io/PCDE-Activity-9.1/)
 
